@@ -1,7 +1,7 @@
 function VitalikCompont(){
     return(
         <div>
-            <h1>Hello Vitalik</h1>
+            <p1>Hello Vitalik</p1>
         </div>
     )
 }
