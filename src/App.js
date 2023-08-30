@@ -1,15 +1,8 @@
 import './App.css';
+import MyComponent from "./components/MyComponents";
 
 
-function MyComponent() {
-  return (
-      <div>
-        <h1>Hello from the reusable component</h1>
-        <button>Like!</button>
-      </div>
-  )
 
-}
 
 function App() {
   return (
