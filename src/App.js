@@ -1,5 +1,5 @@
 import './App.css';
-import RandomMumber from "./components/RandomMumber";
+import RandomMumber from "./components/RandomNumber";
 
 
 

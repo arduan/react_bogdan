@@ -1,7 +1,7 @@
 import {useState} from "react";
 import generateRandomNum from "../utils/generateRandomNum";
 
-function RandomMumber(){
+function RandomNumber(){
     const [randomNum, serRandomNum] = useState(generateRandomNum())
     const changeRandomMum = () => {
         serRandomNum(generateRandomNum())
@@ -14,4 +14,4 @@ function RandomMumber(){
     )
 }
 
-export default RandomMumber
+export default RandomNumber
